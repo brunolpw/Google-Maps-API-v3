@@ -1,0 +1,9 @@
+[
+ { "Latitude": 30.685163, "Longitude": -68.137207, "Info": "Type=Yeti"},
+ { "Latitude": 28.304380, "Longitude": -74.575195, "Info": "Type=UFO"},
+ { "Latitude": 29.132971, "Longitude": -71.136475, "Info": "Type=Ship"},
+ { "Latitude": 27.868217, "Longitude": -68.005371, "Info": "Type=Goatsucker"},
+ { "Latitude": 30.496017, "Longitude": -73.333740, "Info": "Type=Disappearance"},
+ { "Latitude": 26.224447, "Longitude": -71.477051, "Info": "Type=UFO"},
+ { "Latitude": 29.401320, "Longitude": -66.027832, "Info": "Type=Ship"} 
+]
